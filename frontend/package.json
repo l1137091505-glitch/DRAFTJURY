@@ -1,0 +1,9 @@
+{
+  "name": "draftjury-frontend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "dev": "vite", "build": "tsc -b && vite build", "preview": "vite preview" },
+  "dependencies": { "ethers": "^6.16.0" },
+  "devDependencies": { "typescript": "^5.7.2", "vite": "^6.0.5" }
+}
